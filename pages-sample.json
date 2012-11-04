@@ -1,0 +1,42 @@
+[
+    {
+        "title":    "Google Search",
+        "url":      "http://www.google.com/",
+        "legend":   "A Web search engine"
+    },
+    {
+        "title":    "The Independent Games Source",
+        "url":      "http://www.tigsource.com/",
+        "legend":   "Independent game news, reviews, and interviews"
+    },
+    {
+        "title":    "Github",
+        "url":      "https://www.github.com/",
+        "legend":   "A Web-based hosting service"
+    },
+    {
+        "title":    "Hacker News",
+        "url":      "http://news.ycombinator.com/news",
+        "legend":   "A social news website about computer hacking and startup companies"
+    },
+    {
+        "title":    "Python",
+        "url":      "http://www.python.org/",
+        "legend":   "A programming language"
+    },
+    {
+        "title":    "jQuery",
+        "url":      "http://www.jquery.com/",
+        "legend":   "A multi-browser JavaScript library"
+    },
+    {
+        "title":    "CoffeeScript",
+        "url":      "http://coffeescript.org/",
+        "legend":   "A programming language that transcompiles to JavaScript"
+    },
+    {
+        "title":    "Node.js",
+        "url":      "http://nodejs.org/",
+        "legend":   "A server side software system"
+    }
+]

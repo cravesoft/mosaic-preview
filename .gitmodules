@@ -1,0 +1,6 @@
+[submodule "isotope"]
+	path = isotope
+	url = https://github.com/desandro/isotope.git
+[submodule "mosaic"]
+	path = mosaic
+	url = https://github.com/buildinternet/mosaic.git
