@@ -4,6 +4,10 @@ This Web application displays a list of Web pages as thumbnails.
 
 The list of Web pages is provided by a Json document and the thumbnails are generated on every refresh.
 
+## Screenshot 
+
+![Screenshot](http://cravesoft.com/mosaic-preview.png)]
+
 ## Installation 
 
 ### Install dependencies
