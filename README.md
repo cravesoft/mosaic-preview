@@ -11,7 +11,7 @@ The list of Web pages is provided by a Json document and the thumbnails are gene
 For Ubuntu, simply enter the following command that will install all necessary packages:
 
 ``` bash
-sudo apt-get install cutycapt imagemagick
+sudo apt-get install xvfb cutycapt imagemagick
 ```
 
 ### Install Isotope and Mosaic as submodules:
