@@ -10,6 +10,14 @@ The list of Web pages is provided by a Json document and the thumbnails are gene
 
 ## Installation 
 
+### Get the source
+
+Clone the git repository:
+
+``` bash
+git clone git@github.com:cravesoft/mosaic-preview.git
+```
+
 ### Install dependencies
 
 For Ubuntu, simply enter the following command that will install all necessary packages:
@@ -21,8 +29,17 @@ sudo apt-get install xvfb cutycapt imagemagick
 ### Install Isotope and Mosaic as submodules:
 
 ``` bash
+cd mosaic-preview
 git submodule init && git submodule update
 ```
+
+### Set the correct directory permission
+
+``` bash
+chmod 755 img
+```
+
+Depending on your server configuration it might be neccesarry to set whole write permissions (777) to `img`. 
 
 ### Define a list of Web pages
 
