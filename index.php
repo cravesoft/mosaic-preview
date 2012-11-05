@@ -100,7 +100,7 @@
                 $("a.mosaic-overlay").each(function(idx) {
                     var self = this;
                     var url = self.href;
-                    $.get("/homepage/update_preview.php", {
+                    $.get("update_preview.php", {
                         url: url,
                         idx: idx
                     }, function(data) {
