@@ -6,7 +6,7 @@ The list of Web pages is provided by a Json document and the thumbnails are gene
 
 ## Screenshot 
 
-![Screenshot](http://www.cravesoft.com/mosaic-preview.png)
+![Screenshot](http://www.cravesoft.com/mosaic-preview/mosaic-preview.png)
 
 ## Installation 
 
